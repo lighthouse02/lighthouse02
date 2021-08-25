@@ -1,11 +1,11 @@
-![](https://raw.githubusercontent.com/willofd02/Muadz_Azmi/master/header_banner.png)
+![](https://raw.githubusercontent.com/willofd02/Muadz_Azmi/blob/master/header_banner.png)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Muadzmi02?color=blue&label=Follow&logo=twitter&style=flat-square&link=https://twitter.com/Muadzmi02)](https://twitter.com/Muadzmi02) 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC6bxCRcJN9tVQRvsnM86lOA?style=social&link=https://www.youtube.com/channel/UC6bxCRcJN9tVQRvsnM86lOA/)](https://www.youtube.com/channel/UC6bxCRcJN9tVQRvsnM86lOA/) 
 ![](https://komarev.com/ghpvc/?username=willofd02&label=Profile+Views)
 
 
-# Hello World ! Lets Collaborate <img src="https://raw.githubusercontent.com/willofd02/Muadz_Azmi/collaborator-handshake.gif" width="30px">
+# Hello World ! Lets Collaborate <img src="https://github.com/willofd02/Muadz_Azmi/blob/master/collaborator-handshake.gif" width="30px">
 
 A pleasure to meet you.. My name is Muadz Azmi, can call my Muadz or Azmi my fathers name. Dedicated myself as a software engineer/Data Scientist. I'm from the countryside Kangar, living in Kuala Lumpur, currently freelancing and actively finding placement. You can find me on on [![Twitter][1.1]][1] [![LinkedIn][1.2]][2]
 
@@ -13,7 +13,7 @@ A pleasure to meet you.. My name is Muadz Azmi, can call my Muadz or Azmi my fat
 
 I express my thoughts through writing - you can find my articles on my website at [lighthouse02](https://lighthouse02.com/blog/) 
 
-##  Tools & Technologies 
+##  ⚡ Tools & Technologies 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FF4747)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=FF4747)
 ![](https://img.shields.io/badge/Editor-Google_Collab-informational?style=flat&logo=googlecolab&logoColor=white&color=FF4747)
