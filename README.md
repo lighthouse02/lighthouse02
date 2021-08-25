@@ -23,12 +23,12 @@ I express my thoughts through writing - you can find my articles on my website a
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=FF4747)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=FF4747)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&color=FF4747)
 ![](https://img.shields.io/badge/Code-Apache_Spark-informational?style=flat&logo=apachespark&color=FF4747)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&color=FF4747)
 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&color=FF4747)
 
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&color=FF4747)
 ![](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=apachekafka&color=FF4747)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&color=FF4747)
 ![](https://img.shields.io/badge/Tools-Google_Cloud-informational?style=flat&logo=googlecloud&color=FF4747)
