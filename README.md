@@ -5,7 +5,7 @@
 
 # Hello World ! Lets Collaborate <img src="https://raw.githack.com/willofd02/Muadz_Azmi/master/collaborator-handshake.gif" width="30px">
 
-A pleasure to meet you.. My name is Muadz Azmi, can call mu Muadz or Azmi my fathers name. Dedicated myself as a software engineer/Data Scientist. I'm from the countryside Kangar, living in Kuala Lumpur, currently freelancing and actively finding placement. You can find me on on [![Twitter][1.1]][1] [![LinkedIn][1.2]][2].
+A pleasure to meet you.. My name is Muadz Azmi, can call my Muadz or Azmi my fathers name. Dedicated myself as a software engineer/Data Scientist. I'm from the countryside Kangar, living in Kuala Lumpur, currently freelancing and actively finding placement. You can find me on on [![Twitter][1.1]][1] [![LinkedIn][1.2]][2].
 
 ## &#x270d; Expressing Thoughts
 
