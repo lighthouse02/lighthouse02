@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/willofd02/Muadz_Azmi/master/readme_banner.png "Header")](#)
+[![Header](https://raw.githubusercontent.com/willofd02/Muadz_Azmi/master/header_banner.png "Header")](#)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Muadzmi02?color=blue&label=Follow&logo=twitter&style=flat-square) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC6bxCRcJN9tVQRvsnM86lOA?style=social) ![](https://komarev.com/ghpvc/?username=willofd02&label=Profile+Views)
 
