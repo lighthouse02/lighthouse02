@@ -9,7 +9,7 @@ A pleasure to meet you.. My name is Muadz Azmi, can call my Muadz or Azmi my fat
 
 ## &#x270d; Expressing Thoughts
 
-I express my thoughts through writing - you can find my articles on my website at [lighthouse02](https://lighthouse02.com/blog) 
+I express my thoughts through writing - you can find my articles on my website at [lighthouse02](https://lighthouse02.com/blog/) 
 
 ##  Tools & Technologies 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FF4747)
@@ -30,7 +30,7 @@ I express my thoughts through writing - you can find my articles on my website a
 
 
 ## &#x1f4c8; GitHub Stats
-![Metrics](https://metrics.lecoq.io/willofd02?template=classic&achievements=1&projects=1&isocalendar=1&languages=1&introduction=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&projects.limit=4&projects.descriptions=true&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FKuala_Lumpur)
+![Metrics](https://metrics.lecoq.io/willofd02?template=classic&achievements=1&isocalendar=1&languages=1&introduction=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FKuala_Lumpur)
 
 <!-- Badge -->
 
