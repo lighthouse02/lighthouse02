@@ -1,7 +1,7 @@
 <img src="https://github.com/willofd02/Muadz_Azmi/blob/master/header_banner.png/" >
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Muadzmi02?color=blue&label=Follow&logo=twitter&style=flat-square&link=https://twitter.com/Muadzmi02)](https://twitter.com/Muadzmi02) 
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC6bxCRcJN9tVQRvsnM86lOA?style=social&link=https://www.youtube.com/channel/UC6bxCRcJN9tVQRvsnM86lOA/)]![GitHub Repo stars](https://img.shields.io/github/stars/willofd02/willofd02?style=social) ![GitHub forks](https://img.shields.io/github/forks/willofd02/willofd02?style=social) (https://www.youtube.com/channel/UC6bxCRcJN9tVQRvsnM86lOA/) 
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC6bxCRcJN9tVQRvsnM86lOA?style=social&link=https://www.youtube.com/channel/UC6bxCRcJN9tVQRvsnM86lOA/)](https://www.youtube.com/channel/UC6bxCRcJN9tVQRvsnM86lOA/) ![GitHub Repo stars](https://img.shields.io/github/stars/willofd02/willofd02?style=social) ![GitHub forks](https://img.shields.io/github/forks/willofd02/willofd02?style=social)  
 ![](https://komarev.com/ghpvc/?username=willofd02&label=Profile+Views)
 
 
