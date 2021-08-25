@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/willofd02/Muadz_Azmi/blob/master/header_banner.png)
+![](https://https://github.com/willofd02/Muadz_Azmi/blob/master/header_banner.png)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Muadzmi02?color=blue&label=Follow&logo=twitter&style=flat-square&link=https://twitter.com/Muadzmi02)](https://twitter.com/Muadzmi02) 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC6bxCRcJN9tVQRvsnM86lOA?style=social&link=https://www.youtube.com/channel/UC6bxCRcJN9tVQRvsnM86lOA/)](https://www.youtube.com/channel/UC6bxCRcJN9tVQRvsnM86lOA/) 
@@ -7,25 +7,32 @@
 
 # Hello World ! Lets Collaborate <img src="https://github.com/willofd02/Muadz_Azmi/blob/master/collaborator-handshake.gif" width="30px">
 
-A pleasure to meet you.. My name is Muadz Azmi, can call my Muadz or Azmi my fathers name. Dedicated myself as a software engineer/Data Scientist. I'm from the countryside Kangar, living in Kuala Lumpur, currently freelancing and actively finding placement. You can find me on on [![Twitter][1.1]][1] [![LinkedIn][1.2]][2]
+A pleasure to meet you.. My name is Muadz Azmi, can call me Muadz or usually outside Malaysia, they go by my father's name  Azmi. Dedicated myself as a software engineer/Data Scientist. I'm from the countryside Kangar, living in Kuala Lumpur, currently freelancing and actively finding placement. You can find me on on [![Twitter][1.1]][1] [![LinkedIn][1.2]][2]
 
 ## &#x270d; Expressing Thoughts
 
 I express my thoughts through writing - you can find my articles on my website at [lighthouse02](https://lighthouse02.com/blog/) 
 
-##  ⚡ Tools & Technologies 
+##  ⚡ Tools & Technologies Stack
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FF4747)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=FF4747)
-![](https://img.shields.io/badge/Editor-Google_Collab-informational?style=flat&logo=googlecolab&logoColor=white&color=FF4747)
+![](https://img.shields.io/badge/Editor-Google_Collab-informational?style=flat&logo=googlecolab&color=FF4747)
 ![](https://img.shields.io/badge/Editor-Jupyter_Notebook-informational?style=flat&logo=jupyter&logoColor=white&color=FF4747)
+
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=FF4747)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=FF4747)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=FF4747)
+![](https://img.shields.io/badge/Code-Apache_Spark-informational?style=flat&logo=apachespark&logoColor=white&color=FF4747)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=FF4747)
+
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=FF4747)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=FF4747)
+
+![](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=apachekafka&logoColor=white&color=FF4747)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=FF4747)
 ![](https://img.shields.io/badge/Tools-Google_Cloud-informational?style=flat&logo=googlecloud&logoColor=white&color=FF4747)
 ![](https://img.shields.io/badge/Tools-Anaconda_Navigator-informational?style=flat&logo=anaconda&logoColor=white&color=FF4747)
 ![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=FF4747)
+
 ![](https://img.shields.io/badge/Git-Git-informational?style=flat&logo=git&logoColor=white&color=FF4747)
 
 
