@@ -14,6 +14,7 @@ I express my thoughts through writing - you can find my articles on my website a
 
 ## ☕️  Support my journey
 Now you can buy me a coffee ! 
+<br>
 <a href="https://www.buymeacoffee.com/muadzazmi"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=muadzazmi&button_colour=FF5F5F&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00"></a>
 
 ##  ⚡ Tools & Technologies Stack
