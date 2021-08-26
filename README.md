@@ -1,7 +1,7 @@
 <img src="https://github.com/willofd02/Muadz_Azmi/blob/master/header_banner.png/" >
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Muadzmi02?color=blue&label=Follow&logo=twitter&style=flat-square&link=https://twitter.com/Muadzmi02)](https://twitter.com/Muadzmi02) 
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC6bxCRcJN9tVQRvsnM86lOA?style=social&link=https://www.youtube.com/channel/UC6bxCRcJN9tVQRvsnM86lOA/)](https://www.youtube.com/channel/UC6bxCRcJN9tVQRvsnM86lOA/) ![GitHub Repo stars](https://img.shields.io/github/stars/willofd02/willofd02?style=social) ![GitHub forks](https://img.shields.io/github/forks/willofd02/willofd02?style=social) ![](https://komarev.com/ghpvc/?username=willofd02&label=Profile+Views)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC6bxCRcJN9tVQRvsnM86lOA?style=social&link=https://www.youtube.com/channel/UC6bxCRcJN9tVQRvsnM86lOA/)](https://www.youtube.com/channel/UC6bxCRcJN9tVQRvsnM86lOA/) ![GitHub Repo stars](https://img.shields.io/github/stars/willofd02/willofd02?style=social) ![GitHub forks](https://img.shields.io/github/forks/willofd02/willofd02?style=social) ![](https://komarev.com/ghpvc/?username=willofd02&label=Profile+Views) 
 
 
 # Hello World ! Lets Collaborate <img src="https://github.com/willofd02/Muadz_Azmi/blob/master/collaborator-handshake.gif" width="30px">
@@ -11,6 +11,8 @@ A pleasure to meet you.. My name is Muadz Azmi, can call me Muadz or usually out
 ## &#x270d; Expressing Thoughts
 
 I express my thoughts through writing - you can find my articles on my website at [lighthouse02](https://lighthouse02.com/blog/) 
+
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="muadzazmi" data-description="Support me on Buy me a coffee!" data-message="Thank you for visiting. You can now buy me a coffee !" data-color="#BD5FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 
 ##  ⚡ Tools & Technologies Stack
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&color=FF4747)
