@@ -12,8 +12,9 @@ A pleasure to meet you.. My name is Muadz Azmi, can call me Muadz or usually out
 
 I express my thoughts through writing - you can find my articles on my website at [lighthouse02](https://lighthouse02.com/blog/) 
 
-## Support my journey
-Now you can buy me a coffee ! <a href="https://www.buymeacoffee.com/muadzazmi"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=muadzazmi&button_colour=FF5F5F&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00"></a>
+## ☕️  Support my journey
+Now you can buy me a coffee ! 
+<a href="https://www.buymeacoffee.com/muadzazmi"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=muadzazmi&button_colour=FF5F5F&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00"></a>
 
 ##  ⚡ Tools & Technologies Stack
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&color=FF4747)
