@@ -10,7 +10,7 @@ A pleasure to meet you.. My name is Muadz Azmi, can call me Muadz or usually out
 
 ## &#x270d; Expressing Thoughts
 
-I express my thoughts through writing - you can find my articles on my website at [lighthouse02](https://lighthouse02.com/blog/) 
+I express my thoughts through writing - you can find my articles on my website at [lighthouse02](#)-currently under maintenance 
 
 ## ☕️  Support my journey
 Now you can buy me a coffee ! 
