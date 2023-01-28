@@ -1,12 +1,11 @@
 <img src="https://github.com/willofd02/Muadz_Azmi/blob/master/header_banner.png/" >
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Muadzmi02?color=blue&label=Follow&logo=twitter&style=flat-square&link=https://twitter.com/Muadzmi02)](https://twitter.com/Muadzmi02) 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC6bxCRcJN9tVQRvsnM86lOA?style=social&link=https://www.youtube.com/channel/UC6bxCRcJN9tVQRvsnM86lOA/)](https://www.youtube.com/channel/UC6bxCRcJN9tVQRvsnM86lOA/) ![GitHub Repo stars](https://img.shields.io/github/stars/willofd02/willofd02?style=social) ![GitHub forks](https://img.shields.io/github/forks/willofd02/willofd02?style=social) ![](https://komarev.com/ghpvc/?username=willofd02&label=Profile+Views) 
 
 
 # Hello World ! Lets Collaborate <img src="https://github.com/willofd02/Muadz_Azmi/blob/master/collaborator-handshake.gif" width="30px">
 
-A pleasure to meet you.. My name is Muadz Azmi, can call me Muadz or usually outside Malaysia, they go by my father's name  Azmi. Dedicated myself as a Software Engineer/Data Scientist. I'm from the countryside Kangar, living in Kuala Lumpur, currently freelancing and actively finding placement. You can find me on on [![Twitter][1.1]][1] [![LinkedIn][1.2]][2]
+A pleasure to meet you.. My name is Muadz Azmi, can call me Muadz or usually outside Malaysia, they go by my father's name  Azmi. Dedicated myself as a Software Engineer/Data Scientist. I'm from the countryside Kangar, living in Kuala Lumpur, currently freelancing and actively finding placement. You can find me on on [[![LinkedIn][1.2]][2]
 
 ## &#x270d; Expressing Thoughts
 
