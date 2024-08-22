@@ -1,6 +1,6 @@
 <img src="https://github.com/willofd02/Muadz_Azmi/blob/master/header_banner.png/" >
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/willofd02/willofd02?style=social) ![GitHub forks](https://img.shields.io/github/forks/willofd02/willofd02?style=social) ![](https://komarev.com/ghpvc/?username=willofd02&label=Profile+Views) 
+(https://komarev.com/ghpvc/?username=willofd02&label=Profile+Views) 
 
 
 # Hello World ! Lets Collaborate <img src="https://github.com/willofd02/Muadz_Azmi/blob/master/collaborator-handshake.gif" width="30px">
