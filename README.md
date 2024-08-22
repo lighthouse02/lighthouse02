@@ -1,6 +1,6 @@
 <img src="https://github.com/willofd02/Muadz_Azmi/blob/master/header_banner.png/" >
 
-(https://komarev.com/ghpvc/?username=willofd02&label=Profile+Views) 
+[(https://komarev.com/ghpvc/?username=willofd02&label=Profile+Views)]
 
 
 # Hello World ! Lets Collaborate <img src="https://github.com/willofd02/Muadz_Azmi/blob/master/collaborator-handshake.gif" width="30px">
